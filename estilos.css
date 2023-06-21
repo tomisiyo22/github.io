@@ -1,0 +1,24 @@
+.arriba
+{
+    height: 30%;
+    background-color: rgb(215, 213, 205);
+   overflow: scroll;
+}
+
+.centro
+{
+    height: 70%;
+    background-image: url(imagenes/hys.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.abajo
+{
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    background-color: rgb(209, 207, 200);
+    font-size: 25px;
+}
+
